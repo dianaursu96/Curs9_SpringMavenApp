@@ -1,0 +1,7 @@
+mainPackage\App.class
+mainPackage\WisdomWordsService.class
+mainPackage\HomeworkService.class
+mainPackage\ITeacher.class
+mainPackage\JavaTeacher.class
+mainPackage\MathTeacher.class
+mainPackage\Config.class
